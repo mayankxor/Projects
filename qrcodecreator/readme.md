@@ -4,3 +4,4 @@ Its basically just a GUI version of [qrcode package](https://pypi.org/project/qr
 # Changelog
 [March 8, 2025] - Started<br>
 [May 13, 2025] - Added customization for QRCode background and foreground colors.
+[May 14, 2025] - Added Version Control
